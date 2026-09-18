@@ -1,0 +1,10 @@
+[package]
+name = "vector/blue-protocol"
+version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+# Adicione dependências aqui quando necessário
+# Exemplo:
+# Signal = "sleitnick/signal@1.5.0"
