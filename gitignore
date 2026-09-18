@@ -1,0 +1,13 @@
+# Rojo
+*.rbxlx
+*.rbxl
+
+# Wally
+Packages/
+
+# Aftman
+.aftman/
+
+# OS
+.DS_Store
+Thumbs.db
